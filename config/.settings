@@ -1,0 +1,17 @@
+{
+    "projectName": "salesforceDX",
+    "username": "marco@mashfrog.ok",
+    "id": "e30c7980-8e7a-11e8-a769-697166f1ffa0",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://firefly-galatica-433201.my.salesforce.com",
+    "workspace": "C:\\Users\\marco\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

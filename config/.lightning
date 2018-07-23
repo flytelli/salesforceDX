@@ -1,0 +1,36 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad1t0000008oLfCAI"
+        },
+        "Id": "0Ad1t0000008oLfCAI",
+        "AuraDefinitionBundleId": "0Ab1t0000008XWzCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab1t0000008XWzCAM"
+            },
+            "DeveloperName": "GettingStarted"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad1t0000008oLgCAI"
+        },
+        "Id": "0Ad1t0000008oLgCAI",
+        "AuraDefinitionBundleId": "0Ab1t0000008XWzCAM",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab1t0000008XWzCAM"
+            },
+            "DeveloperName": "GettingStarted"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    }
+]

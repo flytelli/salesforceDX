@@ -1,0 +1,32 @@
+{
+    "prova.cls": {
+        "createdById": "0051t000000DyRWAA0",
+        "createdByName": "Marco Moscatelli",
+        "createdDate": "2018-07-23T13:26:40.000Z",
+        "fileName": "unpackaged/classes/prova.cls",
+        "fullName": "prova",
+        "id": "01p1t000002B4v0AAC",
+        "lastModifiedById": "0051t000000DyRWAA0",
+        "lastModifiedByName": "Marco Moscatelli",
+        "lastModifiedDate": "2018-07-23T13:26:40.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "AccountController.cls": {
+        "id": "01p1t000002B52vAAC",
+        "name": "AccountController",
+        "createdDate": "2018-07-23T13:39:07.000+0000",
+        "createdById": "0051t000000DyRWAA0",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051t000000DyRWAA0",
+        "lastModifiedDate": "2018-07-23T14:02:51.000+0000",
+        "fullName": "AccountController",
+        "fileName": "unpackaged/classes/AccountController.cls",
+        "createdByName": "Marco Moscatelli",
+        "lastModifiedByName": "Marco Moscatelli",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
